@@ -2,9 +2,5 @@ node_modules
 dist
 .tmp
 .sass-cache
-<<<<<<< HEAD
 app/bower_components
 .idea
-=======
-.idea
->>>>>>> fd7efd7... Added .idea to .gitignore and basic readme.md file
